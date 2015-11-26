@@ -1,0 +1,24 @@
+---
+time: 1448521470
+inventory:
+  "/books/index.html":
+    md5: 25e1cb2eb60e54a7f8975c8910c14f13
+    time: 1448521468
+  "/index.html":
+    md5: 25e1cb2eb60e54a7f8975c8910c14f13
+    time: 1448521468
+  "/highlights/index.html":
+    md5: 0e21b3531787688e6e1380c1f7bd4e1b
+    time: 1448521468
+  "/CNAME":
+    md5: 9ec4b5a1051a5fa9109399bb926592b3
+    time: 1448521468
+  "/sitemap.xml":
+    md5: d4a559abc29ca00f8178fb2d314f8d18
+    time: 1448521468
+  "/feed.xml":
+    md5: 3bdd69fe7b5c8e4b34d3d1a25345174c
+    time: 1448521468
+  "/style.css":
+    md5: 9187a6775bdce8f1f2143accea89ba6c
+    time: 1448521468
