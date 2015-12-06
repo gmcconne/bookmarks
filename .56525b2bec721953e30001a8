@@ -1,24 +1,24 @@
 ---
-time: 1448521470
+time: 1449373125
 inventory:
   "/books/index.html":
-    md5: 25e1cb2eb60e54a7f8975c8910c14f13
-    time: 1448521468
+    md5: ed548ea4d78298c8ee4ec90e4a738666
+    time: 1449373123
   "/index.html":
-    md5: 25e1cb2eb60e54a7f8975c8910c14f13
-    time: 1448521468
+    md5: ed548ea4d78298c8ee4ec90e4a738666
+    time: 1449373123
   "/highlights/index.html":
-    md5: 0e21b3531787688e6e1380c1f7bd4e1b
-    time: 1448521468
+    md5: 9a76c77afd36ce82d828d56fdb0268ca
+    time: 1449373123
   "/CNAME":
-    md5: 9ec4b5a1051a5fa9109399bb926592b3
-    time: 1448521468
+    md5: d15f10096dc2e85533365f79aac3db86
+    time: 1449373123
   "/sitemap.xml":
-    md5: d4a559abc29ca00f8178fb2d314f8d18
-    time: 1448521468
+    md5: f81c31407fbb55cee29f338b84b35db1
+    time: 1449373123
   "/feed.xml":
-    md5: 3bdd69fe7b5c8e4b34d3d1a25345174c
-    time: 1448521468
+    md5: c459670985e36297ece5db511c76b4ce
+    time: 1449373123
   "/style.css":
     md5: 9187a6775bdce8f1f2143accea89ba6c
     time: 1448521468
